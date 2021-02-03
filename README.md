@@ -1,4 +1,11 @@
-# WP-starter
+# WP Theme 
+This WordPress theme has been created using the below WP-starter along with several other resources.
+
+
+--------------------
+
+## WP-starter
+Found here: https://github.com/BramEsposito/WP-starter
 Starter configuration to install Wordpress with Composer
 
 ## required tools
